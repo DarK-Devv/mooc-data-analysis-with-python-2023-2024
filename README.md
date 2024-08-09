@@ -1,7 +1,3 @@
-Here's a README file template for the **Data Analysis with Python 2023-2024** course available on [MOOC.fi](https://courses.mooc.fi):
-
----
-
 # Data Analysis with Python 2023-2024
 
 Welcome to the **Data Analysis with Python 2023-2024** course! This course is designed to equip you with the essential skills and knowledge required to perform data analysis using Python, one of the most powerful programming languages for this field. 
@@ -67,7 +63,3 @@ To pass the course, you must achieve a passing grade in both the final exam and 
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-
----
-
-This template provides a comprehensive overview of the course and can be modified to better suit the specific structure or focus of your GitHub project.
